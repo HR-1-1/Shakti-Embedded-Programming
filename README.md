@@ -8,4 +8,4 @@ Target Hardware : Pinaka Processor in ARTEX - 35T FPGA Board.
 - [Blog on Shakti](https://blogshakti.org.in/)
 - [Source Repo](https://gitlab.com/shaktiproject)
 
-[Click here](www.google.com) to look at my certificate
+[Click here](https://drive.google.com/file/d/12WVOd-0KVqvU2S29X8zzDlEk_WPQGTt-/view?usp=sharing) to look at my certificate
